@@ -1,1 +1,41 @@
 /data/
+full_a.csv
+full_a.csv.gz.download
+
+# Generated files from analysis
+streamer_clusters.csv
+evaluation_results.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+
+cluster_export
+cluster_export_bipartite
+data
+data/100k_a.csv
+.gitignore
+2_train_gnn_cluster.py
+3_evaluate_gnn_local.py
+3_train_lightgcn_cluster.py
+check_gpu.py
+DSMLP_COMMANDS.txt
+fast_feature_engineering.py
+FINAL_WORKFLOW.md
+full_a.csv
+PART3_PRESENTATION_SCRIPT.txt
+PART3_QUICK_NOTES.txt
+streamer_features_normalized.npy
+part3_streamer_similarity copy.ipynb
